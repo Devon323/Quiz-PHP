@@ -1,0 +1,38 @@
+p{
+  margin-right: 10%;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: red;
+}
+
+h4{
+ background-color: black;
+ padding: 1rem .5em;
+ color: white;
+}
+
+*{
+    font-family: Nunito;
+}
+
+
+input[type="radio"]{
+    margin: 2em;
+}
+
+button{
+    font-size: 2em;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px grey;
+}
+
+button:hover{
+    border: solid 2px tomato;
+}
+button:active{
+    background-color: tomato;
+    color: white;
+}
